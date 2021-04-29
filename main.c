@@ -8,4 +8,5 @@ int main(){
 
 void holaMundo(){
 	escribir "Hola Mundo";
+	escribir "salto de linea";
 }
