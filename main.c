@@ -3,7 +3,7 @@ incluyo librerias
 void holaMundo();
 
 int main(){
-	return 1; 
+	return -1; 
 }
 
 void holaMundo(){
